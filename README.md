@@ -10,4 +10,8 @@ Hello, I’m Paris Usman. I’m a technical writer and Cybersecurity content wri
    • B2B enterprise articles
    • Educational content and newsletters
    • Cyberspace white papers.
+
+
+Connect with me.
+parisusman29@gmail.com
    
