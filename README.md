@@ -4,7 +4,7 @@ Hello, I’m Paris Usman. I’m a technical writer and Cybersecurity content wri
 
 1) Technical documentation:
 
-• Incidence Response Playbooks.
+• Incident Response Playbooks.
 • Educational and Technical guides.
 
 2) Cybersecurity content writing.
