@@ -1,6 +1,6 @@
 # Technical-Writing-Portfolio
 
-Hello, I’m Paris Usman. I’m a technical writer and Cybersecurity content writer. I specialize in: 
+Hello, I’m Paris Usman. I’m a technical writer and Cybersecurity content writer. I primarily specialize in: 
 
 1) Technical documentation:
 
