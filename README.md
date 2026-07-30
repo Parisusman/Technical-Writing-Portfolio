@@ -12,6 +12,6 @@ Hello, I’m Paris Usman. I’m a technical writer and Cybersecurity content wri
    • Cyberspace white papers.
 
 
-Connect with me.
+Connect with me:
 parisusman29@gmail.com
    
